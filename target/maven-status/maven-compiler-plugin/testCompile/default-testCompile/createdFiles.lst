@@ -1,5 +1,4 @@
 parallel\steps\Exercise.class
 parallel\steps\ExerciseDAO.class
 parallel\steps\MyStepdefs.class
-parallel\steps\AppConfig.class
 parallel\TestRunner.class
