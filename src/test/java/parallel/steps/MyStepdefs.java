@@ -1,11 +1,13 @@
 package parallel.steps;
 
 import cucumber.api.java.en.Given;
+import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 
+@RequiredArgsConstructor
 public class MyStepdefs {
 
-    private ExerciseDAO exerciseDAO = new ExerciseDAO();
+    private final ExerciseDAO exerciseDAO;
 
     @SneakyThrows
     @Given("Step from {string} in {string} feature file")

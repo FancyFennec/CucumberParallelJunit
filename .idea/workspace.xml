@@ -4,20 +4,7 @@
     <list default="true" id="c11d423f-cded-4547-8da6-fc2520d5f9bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/steps/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parallel/steps/Exercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/steps/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parallel/steps/HibernateUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/parallel/steps/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parallel/steps/MyStepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Scenario Outlines feature file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Scenario Outlines feature file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Scenarios feature file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Scenarios feature file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario Outlines feature file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario Outlines feature file.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenarios feature file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenarios feature file.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parallel/TestRunner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/steps/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/steps/Exercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parallel/steps/Exercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/steps/ExerciseDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parallel/steps/ExerciseDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/steps/MyStepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parallel/steps/MyStepdefs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/dbscript" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39195403" />
@@ -182,26 +169,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1280.282.1280.760@0.0.1920.1040" timestamp="1580934345829" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581238025312">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581238285155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.282.1280.760@0.0.1920.1040" timestamp="1580969440777" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581238025312" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581238025312">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581238285155" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581238285155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.282.1280.760@0.0.1920.1040" timestamp="1580969440777" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581238025312" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581238025312">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581238285155" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581238285155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.282.1280.760@0.0.1920.1040" timestamp="1580969440777" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581238025312" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581238025312">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581238285155" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581238285155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.282.1280.760@0.0.1920.1040" timestamp="1580969440777" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581238025312" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581238285155" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1581237270986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -260,7 +247,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/parallel/steps/MyStepdefs.java</url>
-          <line>17</line>
+          <line>19</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
