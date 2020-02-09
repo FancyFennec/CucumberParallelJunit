@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c11d423f-cded-4547-8da6-fc2520d5f9bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parallel/steps/MyStepdefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parallel/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CucumberTests-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Scenario Outlines feature file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Scenario Outlines feature file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Scenarios feature file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Scenarios feature file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario Outlines feature file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario Outlines feature file.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenarios feature file.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenarios feature file.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/MyStepdefs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/parallel/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parallel/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/steps/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/steps/ExerciseDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/parallel/steps/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parallel/steps/MyStepdefs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -2,17 +2,8 @@ package parallel.steps;
 
 import cucumber.api.java.en.Given;
 import lombok.SneakyThrows;
-import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.test.context.ContextConfiguration;
-import org.springframework.test.context.junit4.SpringRunner;
 
-@RunWith(SpringRunner.class)
-@ContextConfiguration(classes = {AppConfig.class})
 public class MyStepdefs {
-
-    @Autowired
-    private ExerciseDAO exerciseDAO;
 
     @SneakyThrows
     @Given("Step from {string} in {string} feature file")
